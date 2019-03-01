@@ -149,7 +149,8 @@ public final class Common {
     /**
      * Key of selected.
      */
-    public static final String SELECTED = "selected";
+    // public static final String SELECTED = "selected";
+    public static final String SELECTED = "no_selected";
 
     /**
      * Key of invited user count.
